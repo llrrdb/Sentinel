@@ -1,0 +1,28 @@
+# === Python 核心 ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === 虚拟环境 ===
+.venv/
+venv/
+env/
+.env
+
+# === 语音模型与大数据文件 ===
+sherpa-onnx-kws-zipformer-wenetspeech-3.3M-2024-01-01/
+*.onnx
+*.pt
+*.bin
+
+# === 本地运行数据与日志 ===
+history/
+*.log
+*.wav
+*.mp3
+
+# === IDE 与系统文件 ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
