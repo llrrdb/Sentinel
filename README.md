@@ -33,7 +33,7 @@
 1. 确保已安装 Python 环境。
 2. 克隆本仓库到本地：
    ```bash
-   git clone [https://github.com/llrrdb/Sentinel.git](https://github.com/llrrdb/Sentinel.git)
+   git clone https://github.com/llrrdb/Sentinel.git
 
 3. 激活虚拟环境（建议）并运行主程序：
     ```bash
