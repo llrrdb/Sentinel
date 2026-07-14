@@ -35,15 +35,9 @@
    ```bash
    git clone [https://github.com/llrrdb/Sentinel.git](https://github.com/llrrdb/Sentinel.git)
 
-```
-
 3. 激活虚拟环境（建议）并运行主程序：
-```bash
-python main.py
-
-```
-
-
+    ```bash
+    python main.py
 
 *(注：后端 Qwen3-ASR GGUF 模型的配置方法请参考内部设置说明。)*
 
